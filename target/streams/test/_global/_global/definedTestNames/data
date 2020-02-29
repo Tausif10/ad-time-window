@@ -1,0 +1,1 @@
+["services.LogProcessorSpec","writers.TimeWindowOutputWriterSpec","utils.DateUtilsSpec","transformers.LogTransformerSpec","services.TimeWindowCalculatorSpec"]

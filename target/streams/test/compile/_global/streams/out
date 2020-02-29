@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/tsn3316/work/timeWindow/src/test/scala/services/TimeWindowCalculatorSpec.scala:25:42: unclosed string literal[0m
+[0m[[0m[31merror[0m] [0m[0m    val inputAdIds = List("A1", "A2, "A3")[0m
+[0m[[0m[31merror[0m] [0m[0m                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/tsn3316/work/timeWindow/src/test/scala/services/TimeWindowCalculatorSpec.scala:25:39: ')' expected but string literal found.[0m
+[0m[[0m[31merror[0m] [0m[0m    val inputAdIds = List("A1", "A2, "A3")[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

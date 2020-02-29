@@ -1,0 +1,7 @@
+#Successful Tests
+#Sat Feb 29 17:04:49 IST 2020
+services.TimeWindowCalculatorSpec=1582976089751
+utils.DateUtilsSpec=1582805384535
+utils.OutputFormatterSpec=1582803399723
+transformers.LogTransformerSpec=1582969903858
+services.LogProcessorSpec=1582975662772

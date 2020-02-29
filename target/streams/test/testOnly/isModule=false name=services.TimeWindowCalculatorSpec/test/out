@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0mTimeWindowCalculatorSpec[0m
+[0m[[0m[0minfo[0m] [0m[0mTime window calculator should[0m
+[0m[[0m[0minfo[0m] [0m[0m  [32m+[0m return min time window for ads[0m
+[0m[[0m[0minfo[0m] [0m[0m  [32m+[0m return none when there is no log for input ad ids[0m
+[0m[[0m[0minfo[0m] [0m[0mTotal for specification TimeWindowCalculatorSpec[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mFinished in 188 ms[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36m[0m[36m2 examples, 0 failure, 0 error[0m[0m
