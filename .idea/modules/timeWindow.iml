@@ -12,20 +12,20 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="TEST" name="sbt: net.bytebuddy:byte-buddy:1.9.10:jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="sbt: org.specs2:specs2-mock_2.13:4.8.0:jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="sbt: org.specs2:specs2-matcher_2.13:4.8.3:jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="sbt: org.specs2:specs2-fp_2.13:4.8.3:jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="sbt: org.specs2:specs2-core_2.13:4.8.3:jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="sbt: org.specs2:specs2-common_2.13:4.8.3:jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="sbt: org.scala-sbt:test-interface:1.0:jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="sbt: org.scala-lang.modules:scala-xml_2.13:1.2.0:jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="sbt: org.scala-lang.modules:scala-parser-combinators_2.13:1.1.2:jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="sbt: org.scala-lang:scala-reflect:2.13.1:jar" level="project" />
-    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.1:jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="sbt: org.objenesis:objenesis:2.6:jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="sbt: org.mockito:mockito-core:3.1.0:jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="sbt: org.hamcrest:hamcrest-core:2.1:jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="sbt: org.hamcrest:hamcrest:2.1:jar" level="project" />
     <orderEntry type="library" scope="TEST" name="sbt: net.bytebuddy:byte-buddy-agent:1.9.10:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.hamcrest:hamcrest:2.1:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.hamcrest:hamcrest-core:2.1:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.mockito:mockito-core:3.1.0:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.objenesis:objenesis:2.6:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.1:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scala-lang:scala-reflect:2.13.1:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scala-lang.modules:scala-parser-combinators_2.13:1.1.2:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scala-lang.modules:scala-xml_2.13:1.2.0:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.scala-sbt:test-interface:1.0:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.specs2:specs2-common_2.13:4.8.3:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.specs2:specs2-core_2.13:4.8.3:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.specs2:specs2-fp_2.13:4.8.3:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.specs2:specs2-matcher_2.13:4.8.3:jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="sbt: org.specs2:specs2-mock_2.13:4.8.0:jar" level="project" />
   </component>
 </module>

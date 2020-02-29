@@ -1,3 +1,4 @@
+parallelExecution in Test := false
 
 name := "timeWindow"
 

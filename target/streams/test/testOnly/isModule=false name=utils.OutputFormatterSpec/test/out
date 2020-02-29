@@ -1,7 +1,0 @@
-[0m[[0m[0minfo[0m] [0m[0mOutputFormatterSpec[0m
-[0m[[0m[0minfo[0m] [0m[0mOutput formatter should[0m
-[0m[[0m[0minfo[0m] [0m[0m  [32m+[0m return result in proper format if result is present[0m
-[0m[[0m[0minfo[0m] [0m[0m  [32m+[0m return empty string as result when result is empty[0m
-[0m[[0m[0minfo[0m] [0m[0mTotal for specification OutputFormatterSpec[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mFinished in 147 ms[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36m[0m[36m2 examples, 0 failure, 0 error[0m[0m

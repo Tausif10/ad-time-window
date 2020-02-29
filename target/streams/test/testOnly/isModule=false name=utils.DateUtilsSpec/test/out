@@ -1,7 +1,0 @@
-[0m[[0m[0minfo[0m] [0m[0mDateUtilsSpec[0m
-[0m[[0m[0minfo[0m] [0m[0mDate util should[0m
-[0m[[0m[0minfo[0m] [0m[0m  [32m+[0m convert string into date when string is in specified format[0m
-[0m[[0m[0minfo[0m] [0m[0m  [32m+[0m throw exception when string is not in specified format[0m
-[0m[[0m[0minfo[0m] [0m[0mTotal for specification DateUtilsSpec[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mFinished in 148 ms[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36m[0m[36m2 examples, 0 failure, 0 error[0m[0m

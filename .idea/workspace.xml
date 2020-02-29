@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2931efbb-2693-40db-b268-d0526183eacb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$1cbdf130035cf429fe7d$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$1cbdf130035cf429fe7d.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/timeWindow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/timeWindow.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$334194e97a59cd848802$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$334194e97a59cd848802.cache" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$1cbdf130035cf429fe7d.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$334194e97a59cd848802.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/readers/FileLogReader.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/readers/FileLogReader.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/readers/LogReader.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/readers/LogReader.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/services/LogProcessor.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/services/LogProcessor.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/services/LogProcessorSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/services/LogProcessorSpec.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/ApplicationMain$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/ApplicationMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/META-INF/timeWindow.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/models/Log$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/models/Log.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/models/MinTimeAdWindow$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/models/MinTimeAdWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/readers/FileLogReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/readers/InputAdIdReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/readers/InputReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/readers/LogReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/resources/LogRepo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/services/LogProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/services/TimeWindowCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/transformers/LogTransformer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/utils/DateUtils$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/utils/DateUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/writers/OutputWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/writers/TimeWindowOutputWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/META-INF/timeWindow.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/resources/TestLog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/services/LogProcessorSpec$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/services/LogProcessorSpec$$anon$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/services/LogProcessorSpec$Fixture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/services/LogProcessorSpec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/services/TimeWindowCalculatorSpec$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/services/TimeWindowCalculatorSpec$$anon$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/services/TimeWindowCalculatorSpec$Fixture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/services/TimeWindowCalculatorSpec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/transformers/Fixture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/transformers/LogTransformerSpec$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/transformers/LogTransformerSpec$$anon$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/transformers/LogTransformerSpec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/utils/DateUtilsSpec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/writers/Fixture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/writers/TimeWindowOutputWriterSpec$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/test-classes/writers/TimeWindowOutputWriterSpec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/services.LogProcessorSpec--1325780008.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/services.LogProcessorSpec--536853214.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/services.LogProcessorSpec-1022951237.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/services.LogProcessorSpec-2160.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/services.LogProcessorSpec-28638482.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/services.LogProcessorSpec-69819.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/services.LogProcessorSpec-80204866.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/services.LogProcessorSpec-877928321.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/services.LogProcessorSpec.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/services.TimeWindowCalculatorSpec--162052311.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/services.TimeWindowCalculatorSpec--3330526.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/services.TimeWindowCalculatorSpec--536853214.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/services.TimeWindowCalculatorSpec-1022951237.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/services.TimeWindowCalculatorSpec-1992936350.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/services.TimeWindowCalculatorSpec-2160.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/services.TimeWindowCalculatorSpec-69819.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/services.TimeWindowCalculatorSpec-80204866.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/services.TimeWindowCalculatorSpec.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/transformers.LogTransformerSpec--171654663.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/transformers.LogTransformerSpec--514494453.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/transformers.LogTransformerSpec--536853214.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/transformers.LogTransformerSpec-1022951237.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/transformers.LogTransformerSpec-200795522.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/transformers.LogTransformerSpec-2160.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/transformers.LogTransformerSpec-69819.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/transformers.LogTransformerSpec-80204866.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/transformers.LogTransformerSpec.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/utils.DateUtilsSpec--1183608888.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/utils.DateUtilsSpec--1391639015.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/utils.DateUtilsSpec--1905655511.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/utils.DateUtilsSpec--536853214.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/utils.DateUtilsSpec--689878698.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/utils.DateUtilsSpec-1022951237.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/utils.DateUtilsSpec-2093343826.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/utils.DateUtilsSpec-2160.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/utils.DateUtilsSpec-606373763.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/utils.DateUtilsSpec-69819.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/utils.DateUtilsSpec-80204866.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/utils.DateUtilsSpec.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/utils.OutputFormatterSpec--1490762858.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/utils.OutputFormatterSpec--1749176011.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/utils.OutputFormatterSpec--536853214.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/utils.OutputFormatterSpec-1022951237.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/utils.OutputFormatterSpec-2160.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/utils.OutputFormatterSpec-270960547.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/utils.OutputFormatterSpec-69819.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/utils.OutputFormatterSpec-80204866.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/utils.OutputFormatterSpec.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/writers.TimeWindowOutputWriterSpec--1444351375.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/writers.TimeWindowOutputWriterSpec--536853214.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/writers.TimeWindowOutputWriterSpec--857288220.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/writers.TimeWindowOutputWriterSpec-1022951237.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/writers.TimeWindowOutputWriterSpec-1076832257.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/writers.TimeWindowOutputWriterSpec-2160.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/writers.TimeWindowOutputWriterSpec-69819.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/writers.TimeWindowOutputWriterSpec-80204866.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/specs2-reports/stats/writers.TimeWindowOutputWriterSpec.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/dumpStructure/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/ssExtractDependencies/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/testListeners/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileSourceFileInputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/managedSourcePaths/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compile/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/copyResources/_global/streams/copy-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/_global/_global/compileOutputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/_global/_global/compileSourceFileInputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/_global/_global/definedTestNames/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/_global/_global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/_global/_global/managedSourcePaths/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/compile/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/compileIncSetup/_global/streams/inc_compile_2.13.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/compileIncremental/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/compileIncremental/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/copyResources/_global/streams/copy-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/copyResources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/definedTests/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/loadedTestFrameworks/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/test/_global/streams/succeeded_tests" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/testOnly/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/testOnly/isModule=false name=services.LogProcessorSpec/test/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/testOnly/isModule=false name=services.TimeWindowCalculatorSpec/test/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/testOnly/isModule=false name=transformers.LogTransformerSpec/test/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/testOnly/isModule=false name=utils.DateUtilsSpec/test/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/testOnly/isModule=false name=utils.OutputFormatterSpec/test/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/testOnly/isModule=false name=writers.TimeWindowOutputWriterSpec/test/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/TEST-services.LogProcessorSpec.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/TEST-services.TimeWindowCalculatorSpec.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/TEST-transformers.LogTransformerSpec.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/TEST-utils.DateUtilsSpec.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/TEST-utils.OutputFormatterSpec.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/TEST-writers.TimeWindowOutputWriterSpec.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YTs2cUkAZcivMsnXIzm6IMgIPH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="timeWindow" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="time-window [file:/Users/tsn3316/work/time-window/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="timeWindow-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3165188694329" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="224126870" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/progress-bar" value="PREVIEW" />
+        <entry key="$USER_HOME$/supermini" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ActorDemo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../core" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../data-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nano-functional-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nano-heartbeat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nano-ingest" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nano-performance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nano-search" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nano-users-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../nano-webapp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../protocols-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../tokenizer-api" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2931efbb-2693-40db-b268-d0526183eacb" name="Default Changelist" comment="" />
+      <created>1582977714710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582977714710</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582978179154">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="232" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.823@0.23.1440.823" timestamp="1582978179154" />
+    <state x="399" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1582995478088">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="399" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1582995478088" />
+    <state x="385" y="170" width="670" height="676" key="search.everywhere.popup" timestamp="1582995573880">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="385" y="170" width="670" height="676" key="search.everywhere.popup/0.23.1440.823@0.23.1440.823" timestamp="1582995573880" />
+  </component>
+</project>

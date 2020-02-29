@@ -1,7 +1,0 @@
-[0m[[0m[0minfo[0m] [0m[0mLogTransformerSpec[0m
-[0m[[0m[0minfo[0m] [0m[0mLog transformer should[0m
-[0m[[0m[0minfo[0m] [0m[0m  [32m+[0m build log from string[0m
-[0m[[0m[0minfo[0m] [0m[0m  [32m+[0m filter log which does not contain all logs details[0m
-[0m[[0m[0minfo[0m] [0m[0mTotal for specification LogTransformerSpec[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mFinished in 170 ms[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36m[0m[36m2 examples, 0 failure, 0 error[0m[0m

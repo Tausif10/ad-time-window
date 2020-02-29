@@ -1,7 +1,0 @@
-[0m[[0m[0minfo[0m] [0m[0mLogProcessorSpec[0m
-[0m[[0m[0minfo[0m] [0m[0mLog processor should[0m
-[0m[[0m[0minfo[0m] [0m[0m  [32m+[0m process and write result in specified format[0m
-[0m[[0m[0minfo[0m] [0m[0m  [32m+[0m return error msg when there is no time[0m
-[0m[[0m[0minfo[0m] [0m[0mTotal for specification LogProcessorSpec[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mFinished in 550 ms[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36m[0m[36m2 examples, 0 failure, 0 error[0m[0m
